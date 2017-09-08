@@ -8,7 +8,7 @@ function forLoop(arr){
 
 
 function whileLoop(numTimes){
-  while(numTimes >= 0){
+  while(numTimes > 0){
     console.log(numTimes);
     numTimes--;
   }
