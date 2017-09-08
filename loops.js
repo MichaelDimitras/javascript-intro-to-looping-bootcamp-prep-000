@@ -12,8 +12,5 @@ function whileLoop(numTimes){
     console.log(numTimes);
     numTimes--;
   }
-
-  console.log("Done!");
-
-  return;
+  return "done";
 }
