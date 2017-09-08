@@ -4,6 +4,7 @@ function forLoop(arr){
     else arr = [...arr, `I am ${i+1} strange loops.`];
     return;
 }
+}
 
 
 function whileLoop(numTimes){
